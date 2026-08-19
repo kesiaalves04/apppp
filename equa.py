@@ -90,7 +90,7 @@ st.markdown("""
 
 PASTA_APP = Path(__file__).parent
 
-CAMINHO_LOGO = PASTA_APP / "mat.jpeg"
+CAMINHO_LOGO = PASTA_APP / "mat.jpeg.jpeg"
 
 
 # ============================================================
